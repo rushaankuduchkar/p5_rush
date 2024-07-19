@@ -7,7 +7,7 @@ function setup() {
   frameRate (10)
 }
 function draw () {
-  let posY = mouseX;
-  let posX = mouseY;
+  let posX = mouseX;
+  let posY = mouseY;
   point (posX, posY);
 }
