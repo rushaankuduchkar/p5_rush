@@ -1,9 +1,9 @@
 function setup() {
-  createCanvas(500, 500);
+  createCanvas(1920, 1080);
   background(66, 135, 245);
   strokeWeight (10);
   stroke ('yellow');
-  point (250, 250);
+  point (960, 540);
   frameRate (10)
 }
 function draw () {
